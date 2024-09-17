@@ -1,4 +1,5 @@
 # URNA-VIRTUAL-BACKEND-COM-TESTES-AUTOMATIZADOS
+<em>Bianca Pastega Barros Reis e Carolina Aveiro dos Santos</em></br></br>
 Sistema que simula uma urna virtual, desenvolvido com padrões de API Restful e arquitetura MVC, contando com testes automatizados unitários e de integração, aplicados através da biblioteca Jacoco e do framework JUnit.
 
 <!-- ## Regras de Negócio e Requisitos -->
